@@ -1,0 +1,1 @@
+spark-shell --packages "com.johnsnowlabs.nlp:spark-nlp-spark32_2.12:3.4.4"
